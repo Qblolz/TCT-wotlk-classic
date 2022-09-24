@@ -1,0 +1,14 @@
+﻿## Interface: 30300
+## Author: 1
+## Version: 1.1
+## SavedVariables: TCTDB
+## Title: TCT
+## Notes: TCT
+## OptionalDeps: Ace3, LibStub, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets3
+
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+TCT.lua
